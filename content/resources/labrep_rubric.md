@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Rubric for grading lab reports.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-12-experimental-molecular-neurobiology-fall-2006/73700480c3ad896a16e23ab2430a3d8b_labrep_rubric.pdf
+file: /media/courses/9-12-experimental-molecular-neurobiology-fall-2006/73700480c3ad896a16e23ab2430a3d8b_labrep_rubric.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: labrep_rubric.pdf
 uid: 73700480-c3ad-896a-16e2-3ab2430a3d8b

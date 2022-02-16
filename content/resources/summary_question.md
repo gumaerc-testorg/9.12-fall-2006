@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Paper summary assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-12-experimental-molecular-neurobiology-fall-2006/99ad41403ec333fce896169deb157d91_summary_question.pdf
+file: /media/courses/9-12-experimental-molecular-neurobiology-fall-2006/99ad41403ec333fce896169deb157d91_summary_question.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: summary_question.pdf
 uid: 99ad4140-3ec3-33fc-e896-169deb157d91
