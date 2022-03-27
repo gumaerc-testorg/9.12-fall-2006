@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d98ee8b9-e9cb-f2bc-24a2-96c146eb496d
 resourcetype: Document
 title: week02_intro.pdf
 uid: 87c1e7dd-f6f7-664b-c663-832e83882018

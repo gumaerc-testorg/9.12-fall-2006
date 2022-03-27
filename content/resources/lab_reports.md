@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a4d17e8c-c87a-8031-aa3c-6716c344d591
 resourcetype: Document
 title: lab_reports.pdf
 uid: 693e41b9-98e3-876d-b087-6a3175c8dc1e
