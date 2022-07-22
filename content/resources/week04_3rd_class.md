@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/9-12-experimental-molecular-neurobiology-fall-2006/1d93a9d5219922ece2dd48ddda34c2bf_week04_3rd_class.pdf
+file: /courses/9-12-experimental-molecular-neurobiology-fall-2006/1d93a9d5219922ece2dd48ddda34c2bf_week04_3rd_class.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection

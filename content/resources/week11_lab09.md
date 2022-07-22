@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Lab protocols.
-file: /media/courses/9-12-experimental-molecular-neurobiology-fall-2006/4945221acea60677b5db46dd1476952d_week11_lab09.pdf
+file: /courses/9-12-experimental-molecular-neurobiology-fall-2006/4945221acea60677b5db46dd1476952d_week11_lab09.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Document
 title: week11_lab09.pdf
 uid: 4945221a-cea6-0677-b5db-46dd1476952d
 ---
+Lab protocols.

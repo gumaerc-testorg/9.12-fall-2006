@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Lab notes.
-file: /media/courses/9-12-experimental-molecular-neurobiology-fall-2006/0e9738f613881227fb6761acb1d0b580_week07_5th_class.pdf
+file: /courses/9-12-experimental-molecular-neurobiology-fall-2006/0e9738f613881227fb6761acb1d0b580_week07_5th_class.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Document
 title: week07_5th_class.pdf
 uid: 0e9738f6-1388-1227-fb67-61acb1d0b580
 ---
+Lab notes.
