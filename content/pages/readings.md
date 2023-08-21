@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Schedule of reading assignments.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -36,7 +37,7 @@ Introduction
 {{< tdopen >}}
 
 
-Presentation by Course Writing Instructor ([PDF]({{< baseurl >}}/resources/writingbasics)) (Courtesy of Marilee Ogren. Used with permission.)
+Presentation by Course Writing Instructor ({{% resource_link f01815a1-ca03-befd-f3e3-ca96efc49876 "PDF" %}}) (Courtesy of Marilee Ogren. Used with permission.)
 
 Julius, David, Amy B. MacDermott, Richard Axel, and Thomas M. Jessel. "Molecular Characterization of a Funcational cDNA Encoding the Serotonin 1c Receptor." _Science_ 241 (1998): 558-564.
 

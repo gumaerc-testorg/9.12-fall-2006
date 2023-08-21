@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus section contains an overview of the general course information,
+  writing, additional information, recommended texts, grading policy and a course
+  calendar.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -93,7 +96,7 @@ Additional Information
     
 5.  Lab Safety
     
-    *   While it is important for you all to learn the molecular techniques that we will teach you this semester, it is equally important that you all are safe while performing these tasks.If you have any questions about lab safety, please contact any of the teaching staff. Additional safety information for this course will not be discussed here, but is placed in the [labs]({{< baseurl >}}/pages/labs) section. Please utilize this as a valuable resource.
+    *   While it is important for you all to learn the molecular techniques that we will teach you this semester, it is equally important that you all are safe while performing these tasks.If you have any questions about lab safety, please contact any of the teaching staff. Additional safety information for this course will not be discussed here, but is placed in the {{% resource_link d98ee8b9-e9cb-f2bc-24a2-96c146eb496d "labs" %}} section. Please utilize this as a valuable resource.
     *   The teaching staff will provide all personal protective equipment for students.
     
 
