@@ -2,6 +2,7 @@
 content_type: resource
 description: Lab notes.
 file: /courses/9-12-experimental-molecular-neurobiology-fall-2006/0e9738f613881227fb6761acb1d0b580_week07_5th_class.pdf
+file_size: 26921
 file_type: application/pdf
 learning_resource_types:
 - Labs

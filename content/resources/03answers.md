@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains answers of questions framed by Buck and Axel.
 file: /courses/9-12-experimental-molecular-neurobiology-fall-2006/c9b89ec676882d61d26b1621c89fa30e_03answers.pdf
+file_size: 50067
 file_type: application/pdf
 learning_resource_types:
 - Assignments

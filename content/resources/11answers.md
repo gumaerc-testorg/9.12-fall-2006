@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains answers to Questions for the Maclaren, et al paper.
 file: /courses/9-12-experimental-molecular-neurobiology-fall-2006/5bfd48c5468923c0b93cbaf7277551b4_11answers.pdf
+file_size: 19441
 file_type: application/pdf
 learning_resource_types:
 - Assignments
