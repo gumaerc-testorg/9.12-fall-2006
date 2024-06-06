@@ -4,6 +4,7 @@ description: 'This resource contains questions framed by
 
   Hua,et al.'
 file: /courses/9-12-experimental-molecular-neurobiology-fall-2006/d94d2d40a3c666a3a9f00919a62efaf3_07questions.pdf
+file_size: 63677
 file_type: application/pdf
 learning_resource_types:
 - Assignments
