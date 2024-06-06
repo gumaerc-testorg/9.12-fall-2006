@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains questions framed by Juliusn and Axel.
 file: /courses/9-12-experimental-molecular-neurobiology-fall-2006/3df689f4bd8d87570b6a1a66b3bc9d47_02questions.pdf
+file_size: 35046
 file_type: application/pdf
 learning_resource_types:
 - Assignments

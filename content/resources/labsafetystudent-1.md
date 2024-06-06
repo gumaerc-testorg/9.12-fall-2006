@@ -2,6 +2,7 @@
 content_type: resource
 description: This handout contains lab safety guidelines.
 file: /courses/9-12-experimental-molecular-neurobiology-fall-2006/deeed07b001940ffff56c7268760ffec_labsafetystudent.pdf
+file_size: 54869
 file_type: application/pdf
 learning_resource_types:
 - Labs

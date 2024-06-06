@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains answers of questions framed by Antoch,et al.
 file: /courses/9-12-experimental-molecular-neurobiology-fall-2006/c3ba76dc9a093cb20550f590d9f68efe_08answers.pdf
+file_size: 59176
 file_type: application/pdf
 learning_resource_types:
 - Assignments
