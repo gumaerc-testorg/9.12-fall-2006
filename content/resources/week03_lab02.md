@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lab assignment protocols.
-file: /courses/9-12-experimental-molecular-neurobiology-fall-2006/f0cca6f679c0c343c33c0dcbb4d3717a_week03_lab02.pdf
+file: /ol-ocw-studio-app/courses/9-12-experimental-molecular-neurobiology-fall-2006/f0cca6f679c0c343c33c0dcbb4d3717a_week03_lab02.pdf
 file_size: 78330
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains answers of questions framed by Shen and Meyer.
-file: /courses/9-12-experimental-molecular-neurobiology-fall-2006/0fcc6361d77f3aa90ce02909a4f9e56e_05answers.pdf
+file: /ol-ocw-studio-app/courses/9-12-experimental-molecular-neurobiology-fall-2006/0fcc6361d77f3aa90ce02909a4f9e56e_05answers.pdf
 file_size: 145163
 file_type: application/pdf
 learning_resource_types:

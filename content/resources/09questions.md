@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains Questions for Serafini,et al paper.
-file: /courses/9-12-experimental-molecular-neurobiology-fall-2006/3bb1a6e96f9e3c9ec74e85a77fe4fad9_09questions.pdf
+file: /ol-ocw-studio-app/courses/9-12-experimental-molecular-neurobiology-fall-2006/3bb1a6e96f9e3c9ec74e85a77fe4fad9_09questions.pdf
 file_size: 67854
 file_type: application/pdf
 learning_resource_types:

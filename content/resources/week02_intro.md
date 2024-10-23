@@ -4,7 +4,7 @@ description: 'This resource contains description about
 
   commonly used methods in molecular/cellular neuroscience and research is conducted
   in real life and grading.'
-file: /courses/9-12-experimental-molecular-neurobiology-fall-2006/87c1e7ddf6f7664bc663832e83882018_week02_intro.pdf
+file: /ol-ocw-studio-app/courses/9-12-experimental-molecular-neurobiology-fall-2006/87c1e7ddf6f7664bc663832e83882018_week02_intro.pdf
 file_size: 21683
 file_type: application/pdf
 learning_resource_types:
