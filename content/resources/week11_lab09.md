@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lab protocols.
-file: /courses/9-12-experimental-molecular-neurobiology-fall-2006/4945221acea60677b5db46dd1476952d_week11_lab09.pdf
+file: /ol-ocw-studio-app/courses/9-12-experimental-molecular-neurobiology-fall-2006/4945221acea60677b5db46dd1476952d_week11_lab09.pdf
 file_size: 27977
 file_type: application/pdf
 learning_resource_types:

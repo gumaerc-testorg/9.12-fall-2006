@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/9-12-experimental-molecular-neurobiology-fall-2006/b9e06efad5d541cb06259f35221a8a34_labsafetystudent.pdf
+file: /ol-ocw-studio-app/courses/9-12-experimental-molecular-neurobiology-fall-2006/b9e06efad5d541cb06259f35221a8a34_labsafetystudent.pdf
 file_size: 56023
 file_type: application/pdf
 learning_resource_types: []
