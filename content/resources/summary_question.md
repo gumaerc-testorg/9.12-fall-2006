@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Paper summary assignment.
-file: /courses/9-12-experimental-molecular-neurobiology-fall-2006/99ad41403ec333fce896169deb157d91_summary_question.pdf
+file: /ol-ocw-studio-app/courses/9-12-experimental-molecular-neurobiology-fall-2006/99ad41403ec333fce896169deb157d91_summary_question.pdf
 file_size: 31607
 file_type: application/pdf
 learning_resource_types:
