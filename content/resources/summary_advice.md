@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment guidelines.
-file: /ol-ocw-studio-app/courses/9-12-experimental-molecular-neurobiology-fall-2006/c975a5da7355202b8cf95c2d1e249495_summary_advice.pdf
+file: /courses/9-12-experimental-molecular-neurobiology-fall-2006/c975a5da7355202b8cf95c2d1e249495_summary_advice.pdf
 file_size: 11547
 file_type: application/pdf
 learning_resource_types:

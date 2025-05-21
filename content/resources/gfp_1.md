@@ -3,7 +3,7 @@ content_type: resource
 description: 3T3 cells from mice were transfected with a gene encoding for green fluorescent
   protein (GFP). These glowing cells were products of the 8th week lab session. (Image
   by Prof. Carlos Lois.)
-file: /ol-ocw-studio-app/courses/9-12-experimental-molecular-neurobiology-fall-2006/90eb14bfcf78f4b4a3ea4d750c286f40_gfp_1.jpg
+file: /courses/9-12-experimental-molecular-neurobiology-fall-2006/90eb14bfcf78f4b4a3ea4d750c286f40_gfp_1.jpg
 file_size: 81896
 file_type: image/jpeg
 image_metadata:

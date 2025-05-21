@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thir resource contains Questions for the Maclaren,et al paper.
-file: /ol-ocw-studio-app/courses/9-12-experimental-molecular-neurobiology-fall-2006/dacff08872e323c94aa269fa6a33eb16_11questions.pdf
+file: /courses/9-12-experimental-molecular-neurobiology-fall-2006/dacff08872e323c94aa269fa6a33eb16_11questions.pdf
 file_size: 13522
 file_type: application/pdf
 learning_resource_types:

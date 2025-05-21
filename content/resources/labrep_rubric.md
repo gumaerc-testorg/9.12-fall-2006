@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Rubric for grading lab reports.
-file: /ol-ocw-studio-app/courses/9-12-experimental-molecular-neurobiology-fall-2006/73700480c3ad896a16e23ab2430a3d8b_labrep_rubric.pdf
+file: /courses/9-12-experimental-molecular-neurobiology-fall-2006/73700480c3ad896a16e23ab2430a3d8b_labrep_rubric.pdf
 file_size: 49449
 file_type: application/pdf
 learning_resource_types:
