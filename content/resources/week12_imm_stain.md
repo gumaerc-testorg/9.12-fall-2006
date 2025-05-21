@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lab notes.
-file: /ol-ocw-studio-app/courses/9-12-experimental-molecular-neurobiology-fall-2006/d69c06efdf55f4d4f53e3315262409e0_week12_imm_stain.pdf
+file: /courses/9-12-experimental-molecular-neurobiology-fall-2006/d69c06efdf55f4d4f53e3315262409e0_week12_imm_stain.pdf
 file_size: 24817
 file_type: application/pdf
 learning_resource_types:
