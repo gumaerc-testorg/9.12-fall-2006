@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Lab assignment protocols.
-file: /courses/9-12-experimental-molecular-neurobiology-fall-2006/11baad702b7bcbfdb74361fb4f6da708_week04_lab03.pdf
+file: /ol-ocw-studio-app/courses/9-12-experimental-molecular-neurobiology-fall-2006/11baad702b7bcbfdb74361fb4f6da708_week04_lab03.pdf
 file_size: 22752
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
