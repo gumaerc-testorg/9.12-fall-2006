@@ -5,7 +5,7 @@ file: /ol-ocw-studio-app/courses/9-12-experimental-molecular-neurobiology-fall-2
 file_size: 573065
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
