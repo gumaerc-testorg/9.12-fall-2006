@@ -2,7 +2,7 @@
 content_type: page
 description: Schedule of lab topics and protocols for each lab.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: d98ee8b9-e9cb-f2bc-24a2-96c146eb496d
